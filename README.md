@@ -17,6 +17,7 @@
 2) Transformer Layer : fairseq.modules의 MultiHeadAttention class를 활용하여 Transformer Layer class를 구현하였습니다.
 
 ![image](https://user-images.githubusercontent.com/55790232/179365664-cdc5bee6-e347-4fe9-a405-61e5e911f313.png)
+
 3) Iterated Loss와 Right Context Limit은 구현하지 못했습니다.
 
 ### 3. Train & Test
